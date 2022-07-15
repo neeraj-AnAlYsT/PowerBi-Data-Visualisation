@@ -1,2 +1,3 @@
 # PowerBi-Data-Visualisation
-This repository contains data visualization using Microsoft powerBI.  
+This is derived via Glassdoor salaries from more than 
+93000 people & 600+ companies. 
